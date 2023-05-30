@@ -1,0 +1,7 @@
+{
+    "asset" : [
+      { "id": 1, "name": "Laptop", "merk": "Apple", "status": "New" },
+      { "id": 2, "name": "Laptop", "merk": "HP", "status": "New" },
+      { "id": 3, "name": "Handphone", "merk": "Xiaomi", "status": "Second" }
+    ]
+  }
